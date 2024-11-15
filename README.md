@@ -3,6 +3,9 @@ a hook dll for domino. what more is there to say?
 
 this uses the excellent QuickHook library by CPunch, which can be found [here](https://github.com/CPunch/QuickHook)
 
+note: only works for domino 1.43 at the moment, it will be rewritten to work for domino 1.44 and above once 1.45 becomes stable and (for now, anything above 1.43 will fail to launch)
+
+
 ## features
 - replaced zoom handling functions
 - string patching framework with translated strings by [@ryryjy](https://github.com/ryryjy)
